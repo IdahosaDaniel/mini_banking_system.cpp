@@ -22,20 +22,20 @@ A simple command-line banking application developed in C++ to practise programmi
 3. Compile the C++ source file using a C++ compiler such as `g++`.
 4. Run the compiled program.
 
-Example compilation command:
+Compile the program:
 
 ```bash
 g++ mini_banking_system.cpp -o mini_banking_system
 ```
 
-Run the program:
+Run on Windows:
 
-**Windows:**
 ```bash
 mini_banking_system.exe
 ```
 
-**Linux/macOS:**
+Run on Linux/macOS:
+
 ```bash
 ./mini_banking_system
 ```
@@ -55,4 +55,4 @@ This project helped me practise C++ programming, conditional statements, functio
 
 **Idahosa Daniel Osarunwense**
 
-GitHub: [IdahosaDaniel](https://github.com/IdahosaDaniel)
+GitHub: https://github.com/IdahosaDaniel
